@@ -1,0 +1,19 @@
+{
+  "name": "depbot_test",
+  "version": "1.0.0",
+  "description": "A simple app to test dependabot functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvcaine/depbot_test.git"
+  },
+  "author": "Romi H",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
