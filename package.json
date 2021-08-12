@@ -15,6 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.1",
-    "simple-node-logger": "^18.12.24"
+    "simple-node-logger": "^21.8.12"
   }
 }
